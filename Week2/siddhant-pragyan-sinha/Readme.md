@@ -15,6 +15,8 @@ The To-Do App is a simple and intuitive task management application designed to 
 ## Features
 
 * Create new tasks with a title, description, and due date
+
+* [Live Demo](https://siddhant-pragyan-sinha-todo-app.netlify.app/)
 * Edit existing tasks
 * Delete tasks
 * Mark tasks as completed
