@@ -1,0 +1,12 @@
+{
+  "name": "siddhant-pragyan-sinha",
+  "version": "1.0.0",
+  "description": "Table of Contents ================= * [Overview](#overview) * [Features](#features) * [Installation](#installation) * [Usage](#usage) * [License](#license)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
